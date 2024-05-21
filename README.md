@@ -1,4 +1,4 @@
-# Setting_Up_Repository
+# Project Title: **Setting_Up_Repository**
 
 ```diff
 
@@ -89,10 +89,11 @@ $ git log <origin_name[main_or_master]>
 + Reverting commit on pull request:
 
 "STEPS:"
-1. Go to the pull request on Github.
-2. Click on the "Files changed" tab.
-3. Click on the "..." button on the right side of the file.
-4. Click on "Revert to this commit".
-! 1. Under your repository name, click "Pull requests".
-! 2.
+! 1. Go to the pull request on Github.
+! 2. Click on the "Files changed" tab.
+! 3. Click on the "..." button on the right side of the file.
+! 4. Click on "Revert to this commit".
+
 ```
+
+### Author: **_Afolabi Oluwaseun_**
