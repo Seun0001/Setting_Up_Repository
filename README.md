@@ -9,7 +9,7 @@
 ## Creating_Repositories
 
 ```diff
-+ Since familiar git creating repo, i directly created mine from Github (from create_repo) called Setting_Up_Repository.
++ Since i am familiar git creating repo, i directly created mine from Github (from create_repo) called Setting_Up_Repository.
 
 ```
 
